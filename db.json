@@ -1,0 +1,326 @@
+{
+  "products": [
+    {
+      "name": "550",
+      "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNob2VzJTIwbmV3JTIwYmFsYW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "10000",
+      "brand": "New balance",
+      "sizes": [
+        "sm",
+        "md",
+        "lg"
+      ],
+      "colors": [
+        "red",
+        "yellow"
+      ],
+      "id": 1
+    },
+    {
+      "name": "AJ 1",
+      "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance",
+      "price": "4657",
+      "brand": " nike",
+      "sizes": [
+        "sm",
+        "lg",
+        "xl"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "other"
+      ],
+      "id": 2
+    },
+    {
+      "name": "AJ 5",
+      "image": "https://source.unsplash.com/1600x550/?shoes,newbalance",
+      "price": "3617",
+      "brand": " nike",
+      "sizes": [
+        "sm",
+        "lg",
+        "xl",
+        "xxl"
+      ],
+      "colors": [
+        "red",
+        "blue",
+        "other",
+        "yellow"
+      ],
+      "id": 3
+    },
+    {
+      "name": "AJ 4",
+      "image": "https://source.unsplash.com/1600x550/?shoes,nike,",
+      "price": "4257",
+      "brand": " nike bape",
+      "sizes": [
+        "sm",
+        "lg",
+        "xxl",
+        "md"
+      ],
+      "colors": [
+        "red",
+        "blue"
+      ],
+      "id": 4
+    },
+    {
+      "name": "990",
+      "image": "https://images.unsplash.com/photo-1465453869711-7e174808ace9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTB8fHNob2VzJTIwbmV3JTIwYmFsYW5jZXxlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "price": "50000",
+      "brand": "New balance",
+      "sizes": [
+        "sm",
+        "md"
+      ],
+      "colors": [
+        "red",
+        "blue"
+      ],
+      "id": 5
+    },
+    {
+      "name": "AJ 5",
+      "image": "https://source.unsplash.com/1600x550/?shoes,jordan,newbalance",
+      "price": "3657",
+      "brand": "jordan",
+      "sizes": [
+        "sm",
+        "lg",
+        "xxl"
+      ],
+      "colors": [
+        "blue",
+        "other"
+      ],
+      "id": 6
+    },
+    {
+      "name": "Dunks",
+      "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance,vans",
+      "price": "7657",
+      "brand": "nike X offwhite",
+      "sizes": [
+        "sm",
+        "lg",
+        "xxl",
+        "md"
+      ],
+      "colors": [
+        "blue",
+        "other",
+        "red",
+        "yellow"
+      ],
+      "id": 7
+    },
+    {
+      "name": "High-top",
+      "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance,vans,adidas",
+      "price": "9999",
+      "brand": "nike X pegion",
+      "sizes": [
+        "sm",
+        "lg",
+        "xxl",
+        "md",
+        "xl"
+      ],
+      "colors": [
+        "red"
+      ],
+      "id": 8
+    },
+    {
+      "name": "Pentacost",
+      "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance",
+      "price": "5000",
+      "brand": "jordan bhau",
+      "sizes": [
+        "sm",
+        "xxl",
+        "lg",
+        "md"
+      ],
+      "colors": [
+        "blue",
+        "yellow"
+      ],
+      "id": 9
+    }
+  ],
+  "cart": [],
+  "users": [
+    {
+      "name": "penta",
+      "email": "penta@gmail.com",
+      "password": "123",
+      "id": 1
+    },
+    {
+      "name": "user",
+      "email": "user@gmail.com",
+      "password": "123",
+      "id": 2
+    },
+    {
+      "name": "rakhi",
+      "email": "rakhi@gmail.com",
+      "address": "somthing",
+      "mobile": "4567891230",
+      "password": "123",
+      "id": 3
+    }
+  ],
+  "orders": [
+    {
+      "userId": 1,
+      "products": [
+        {
+          "name": "High-top",
+          "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance,vans,adidas",
+          "price": "9999",
+          "brand": "nike X pegion",
+          "sizes": [
+            "sm",
+            "lg",
+            "xxl",
+            "md",
+            "xl"
+          ],
+          "colors": [
+            "red"
+          ],
+          "size": "",
+          "color": "",
+          "qty": 1,
+          "userId": 1,
+          "id": 1
+        }
+      ],
+      "status": "Dispatched",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "products": [
+        {
+          "name": "High-top",
+          "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance,vans,adidas",
+          "price": "9999",
+          "brand": "nike X pegion",
+          "sizes": [
+            "sm",
+            "lg",
+            "xxl",
+            "md",
+            "xl"
+          ],
+          "colors": [
+            "red"
+          ],
+          "size": "",
+          "color": "",
+          "qty": 1,
+          "userId": 1,
+          "id": 1
+        }
+      ],
+      "status": "delivered",
+      "id": 1
+    },
+    {
+      "userId": 1,
+      "products": [
+        {
+          "name": "AJ 1",
+          "image": "https://source.unsplash.com/1600x550/?shoes,nike,newbalance",
+          "price": "4657",
+          "brand": " nike",
+          "sizes": [
+            "sm",
+            "lg",
+            "xl"
+          ],
+          "colors": [
+            "red",
+            "blue",
+            "other"
+          ],
+          "size": "",
+          "color": "",
+          "qty": 1,
+          "userId": 1,
+          "id": 1
+        }
+      ],
+      "status": "placed",
+      "id": 2
+    },
+    {
+      "userId": 1,
+      "products": [
+        {
+          "name": "AJ 5",
+          "image": "https://source.unsplash.com/1600x550/?shoes,newbalance",
+          "price": "3617",
+          "brand": " nike",
+          "sizes": [
+            "sm",
+            "lg",
+            "xl",
+            "xxl"
+          ],
+          "colors": [
+            "red",
+            "blue",
+            "other",
+            "yellow"
+          ],
+          "size": "",
+          "color": "",
+          "qty": 1,
+          "userId": 1,
+          "id": 1
+        },
+        {
+          "name": "AJ 5",
+          "image": "https://source.unsplash.com/1600x550/?shoes,newbalance",
+          "price": "3617",
+          "brand": " nike",
+          "sizes": [
+            "sm",
+            "lg",
+            "xl",
+            "xxl"
+          ],
+          "colors": [
+            "red",
+            "blue",
+            "other",
+            "yellow"
+          ],
+          "size": "",
+          "color": "",
+          "qty": 5,
+          "userId": 1,
+          "id": 2
+        }
+      ],
+      "id": 3
+    }
+  ],
+  "admin": [
+    {
+      "id": 1,
+      "name": "admin",
+      "email": "admin@gmail.com",
+      "password": "123"
+    }
+  ]
+}
